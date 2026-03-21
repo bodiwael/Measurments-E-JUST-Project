@@ -1,0 +1,64 @@
+# Arduino / ESP32
+*.elf
+*.eep
+*.hex
+*.bin
+
+# IDE files
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Build files
+build/
+*.o
+*.a
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Personal config (keep template only)
+config_personal.h
+
+# Logs
+*.log
+
+# Images (large files - add selectively)
+*.jpg
+*.png
+*.gif
+!images/system_photo.jpg
+!images/dashboard_screenshot.png
+
+# Documentation backups
+docs/*~
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# MATLAB
+*.asv
+*.m~
+
+# PCB design
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Fritzing
+*.fzz~
+*.fzz.bak
