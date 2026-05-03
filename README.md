@@ -60,7 +60,7 @@ Servos (Optional)  ────────────────────�
 - ✅ Efficiency calculation (Actual vs Expected Power)
 - ✅ **MPPT (Maximum Power Point Tracking)** - Extract maximum power from solar panel
 - ✅ 16x2 LCD local display with rotating screens
-- ✅ WiFi connectivity for IoT integration
+- ✅ WiFi connectivity for IoT integration.
 - ✅ ThingSpeak cloud data logging and visualization
 
 ### Optional Features
